@@ -28,7 +28,8 @@
 [![Steam](https://a11ybadges.com/badge?logo=steam)](https://steamcommunity.com/profiles/76561198135952876/)
 
 <!-- GithubStats -->
-![Giovani GitHub stats](https://github-readme-stats.vercel.app/api?username=GvnnSza&show_icons=true&theme=gotham)
+![Giovani GitHub stats](https://github-readme-stats.vercel.app/api?username=GvnnSza&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GvnnSza&show_icons=true&theme=github_dark)](https://github.com/GvnnSza/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
